@@ -1,6 +1,7 @@
 # Number Guessing Game CLI
 
-Welcome to the Number Guessing Game CLI! This is a simple console-based number guessing game where you can choose different difficulty levels, set custom ranges, and even set a time limit for each guess.
+Welcome to the Number Guessing Game CLI! This is a simple console-based number guessing game where you can choose different difficulty levels, set custom ranges, and even set a time limit for each guess.<br>
+Project Idea: https://roadmap.sh/projects/number-guessing-game
 
 ## Features
 
